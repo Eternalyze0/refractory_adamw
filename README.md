@@ -16,3 +16,9 @@ Refractory: step 2000: train loss 1.7561, val loss 1.8834
 Baseline: step 2000: train loss 1.4449, val loss 1.6490
 Refractory: step 2000: train loss 1.4426, val loss 1.6435
 ```
+
+### Cartpole
+
+```
+n_episode :380, score : 3206.5, n_buffer : 50000, eps : 6.1%
+```
